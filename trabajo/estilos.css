@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*header*/
+
+header {
+    background-color: black;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+header img{
+    height: 60px;
+    width: 380px;
+}
+/*
+.logo-header{
+    width: 70%;
+}
+.logo-header img{
+    margin-left: 475px;
+}*/
+
+.nav-item a{
+    color: white!important;
+}
+
+
+/*/header*/
+
+/*presentacio*/
+
+.presentacion{
+background-image: url(./img/pexels-adrien-olichon-2387793.jpg) ;
+    background-size: cover;
+   height: 800px;
+}
+
+h1{color: white;}
+
+
+.presentacion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
